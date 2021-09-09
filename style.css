@@ -1,0 +1,30 @@
+*{padding: 0; margin: 0;}
+body{
+      height: 100vh;
+      width: 100%;
+      background-color: black;
+}
+.blue{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+   margin-left: 1500px;
+}
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 1400px;
+}
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-left: 1300px;
+}
+.yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin-left: 1200px;
+}
